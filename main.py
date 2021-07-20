@@ -7,8 +7,8 @@ from bs4 import BeautifulSoup
 
 # 强烈建议部署在非大陆区域，例如HK、SG等
 # 常量命名使用全部大写的方式，可以使用下划线。
-USERNAME = ''  # 这里填用户名，邮箱也可
-PASSWORD = ''  # 这里填密码
+USERNAME = 'mob22096@cuoly.com'  # 这里填用户名，邮箱也可
+PASSWORD = 'Qishen5845.'  # 这里填密码
 
 # Server酱 http://sc.ftqq.com/?c=code
 SCKEY = ''  # 这里填Server酱的key，无需推送可不填 示例: SCU646xxxxxxxxdacd6a5dc3f6
